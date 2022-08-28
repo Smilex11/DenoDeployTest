@@ -1,4 +1,4 @@
-import * as Drash from "https://deno.land/x/drash@<2.7.0/mod.ts";
+import * as Drash from "https://deno.land/x/drash@2.7.0/mod.ts";
 
 class HomeResource extends Drash.Resource {
   paths = ["/"];
